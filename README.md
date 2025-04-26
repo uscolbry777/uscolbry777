@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Desarrollador Full Stack y experto en Inteligencia Artificial con mentalidad emprendedora y espíritu solitario. Me apasiona construir soluciones web innovadoras que fusionan la potencia de la IA con un desarrollo robusto y eficiente. Mi visión es crear productos digitales que marquen la diferencia.<br><br>Explora mis proyectos y descubre cómo estoy dando forma al futuro digital.<br><br>Visita mi sitio web: l e a r t i c . c o m
 
 
